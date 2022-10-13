@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+body {
+    font-family: 'Outfit', sans-serif;
+    overflow: hidden;
+    white-space: nowrap;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    text-align: center;
+    margin: 12vh 70vh;
+    padding: 3vh;
+    background: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    
+}
+strong {
+    font-size: 18px;
+}
+p {
+    font-size: 15px;
+}
+
+.logo {
+    max-width: 10%;
+}
